@@ -1,5 +1,4 @@
-<style type="text/css">
-input.text, input.search, textarea.textarea {
+input.text, input.search, textarea.textarea, .wufoo input.text, .wufoo textarea.textarea, input.medium, select.medium, input.text, input.search, textarea.textarea, input.text, input.search, input.file, textarea.textarea, select.select {
 	width:400px;
 	height:35px;
 	font-size:16px;
@@ -7,4 +6,3 @@ input.text, input.search, textarea.textarea {
 	 -moz-border-radius: 10px;
 	 border-radius: 10px; 
 }
-</style>
