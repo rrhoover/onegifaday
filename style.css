@@ -6,3 +6,7 @@ input.text, input.search, textarea.textarea, .wufoo input.text, .wufoo textarea.
 	 -moz-border-radius: 10px;
 	 border-radius: 10px; 
 }
+
+body {
+	background-color:red;
+}
