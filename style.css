@@ -1,3 +1,4 @@
+<style type="text/css">
 input.text, input.search, textarea.textarea {
 	width:400px;
 	height:35px;
@@ -6,4 +7,4 @@ input.text, input.search, textarea.textarea {
 	 -moz-border-radius: 10px;
 	 border-radius: 10px; 
 }
-
+</style>
