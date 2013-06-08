@@ -1,7 +1,10 @@
-.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file {
-	width:400px !important;
-	height:35px !important;
-	font-size:16px !important;
+input.text, input.search, textarea.textarea {
+	width:400px;
+	height:35px;
+	font-size:16px;
+	 -webkit-border-radius: 10px;
+	 -moz-border-radius: 10px;
+	 border-radius: 10px; 
 }
 
 #saveForm {
